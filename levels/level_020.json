@@ -1,0 +1,20 @@
+{
+	"id": 20,
+	"name": "Jefe de sección",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread"
+	],
+	"triples": 12,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 79,
+	"hint_cost": 80,
+	"reward_coins": 350,
+	"difficulty": 6
+}

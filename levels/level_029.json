@@ -1,0 +1,21 @@
+{
+	"id": 29,
+	"name": "Control de stock",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese"
+	],
+	"triples": 15,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 99,
+	"hint_cost": 105,
+	"reward_coins": 385,
+	"difficulty": 8
+}

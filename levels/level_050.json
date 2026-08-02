@@ -1,0 +1,23 @@
+{
+	"id": 50,
+	"name": "Maestro absoluto",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese",
+		"box",
+		"bottle"
+	],
+	"triples": 24,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 3,
+	"tray_slots": 5,
+	"time_limit": 158,
+	"hint_cost": 170,
+	"reward_coins": 800,
+	"difficulty": 10
+}

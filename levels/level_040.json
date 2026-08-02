@@ -1,0 +1,22 @@
+{
+	"id": 40,
+	"name": "Supervisor regional",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese",
+		"box"
+	],
+	"triples": 20,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 132,
+	"hint_cost": 140,
+	"reward_coins": 650,
+	"difficulty": 10
+}

@@ -1,0 +1,21 @@
+{
+	"id": 24,
+	"name": "Bodega profunda",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese"
+	],
+	"triples": 13,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 86,
+	"hint_cost": 90,
+	"reward_coins": 310,
+	"difficulty": 7
+}

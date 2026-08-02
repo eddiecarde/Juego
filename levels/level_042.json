@@ -1,0 +1,22 @@
+{
+	"id": 42,
+	"name": "Almacén infinito",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese",
+		"box"
+	],
+	"triples": 21,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 3,
+	"tray_slots": 5,
+	"time_limit": 139,
+	"hint_cost": 145,
+	"reward_coins": 580,
+	"difficulty": 10
+}

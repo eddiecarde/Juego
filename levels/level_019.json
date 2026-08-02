@@ -1,0 +1,20 @@
+{
+	"id": 19,
+	"name": "Caja registradora",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread"
+	],
+	"triples": 11,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 0,
+	"hint_cost": 75,
+	"reward_coins": 235,
+	"difficulty": 6
+}

@@ -1,0 +1,21 @@
+{
+	"id": 33,
+	"name": "Estantes al límite",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese"
+	],
+	"triples": 17,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 112,
+	"hint_cost": 120,
+	"reward_coins": 445,
+	"difficulty": 9
+}

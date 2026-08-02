@@ -1,0 +1,20 @@
+{
+	"id": 17,
+	"name": "Doble estante",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread"
+	],
+	"triples": 10,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 66,
+	"hint_cost": 70,
+	"reward_coins": 205,
+	"difficulty": 6
+}

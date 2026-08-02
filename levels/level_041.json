@@ -1,0 +1,22 @@
+{
+	"id": 41,
+	"name": "Centro logístico",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese",
+		"box"
+	],
+	"triples": 20,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 5,
+	"time_limit": 132,
+	"hint_cost": 145,
+	"reward_coins": 565,
+	"difficulty": 10
+}

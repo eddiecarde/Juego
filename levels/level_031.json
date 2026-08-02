@@ -1,0 +1,21 @@
+{
+	"id": 31,
+	"name": "Gran superficie",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese"
+	],
+	"triples": 16,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 0,
+	"hint_cost": 115,
+	"reward_coins": 415,
+	"difficulty": 9
+}

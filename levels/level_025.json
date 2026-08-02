@@ -1,0 +1,21 @@
+{
+	"id": 25,
+	"name": "Escaparate",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese"
+	],
+	"triples": 14,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 92,
+	"hint_cost": 95,
+	"reward_coins": 325,
+	"difficulty": 7
+}

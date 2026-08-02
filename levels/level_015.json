@@ -1,0 +1,20 @@
+{
+	"id": 15,
+	"name": "Turno de tarde",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread"
+	],
+	"triples": 10,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 7,
+	"time_limit": 0,
+	"hint_cost": 65,
+	"reward_coins": 175,
+	"difficulty": 5
+}

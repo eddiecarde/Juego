@@ -1,0 +1,22 @@
+{
+	"id": 49,
+	"name": "Contra el reloj final",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese",
+		"box"
+	],
+	"triples": 24,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 3,
+	"tray_slots": 5,
+	"time_limit": 158,
+	"hint_cost": 165,
+	"reward_coins": 685,
+	"difficulty": 10
+}

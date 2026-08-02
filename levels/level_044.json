@@ -1,0 +1,22 @@
+{
+	"id": 44,
+	"name": "Estrés de estante",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese",
+		"box"
+	],
+	"triples": 22,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 3,
+	"tray_slots": 5,
+	"time_limit": 145,
+	"hint_cost": 150,
+	"reward_coins": 610,
+	"difficulty": 10
+}

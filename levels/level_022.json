@@ -1,0 +1,20 @@
+{
+	"id": 22,
+	"name": "Zona de carga",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread"
+	],
+	"triples": 13,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 86,
+	"hint_cost": 85,
+	"reward_coins": 280,
+	"difficulty": 7
+}

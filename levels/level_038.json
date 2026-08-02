@@ -1,0 +1,22 @@
+{
+	"id": 38,
+	"name": "Sin descanso",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese",
+		"box"
+	],
+	"triples": 19,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 125,
+	"hint_cost": 135,
+	"reward_coins": 520,
+	"difficulty": 10
+}

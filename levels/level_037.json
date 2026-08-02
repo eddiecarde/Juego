@@ -1,0 +1,22 @@
+{
+	"id": 37,
+	"name": "Maratón de sorteo",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese",
+		"box"
+	],
+	"triples": 19,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 125,
+	"hint_cost": 130,
+	"reward_coins": 505,
+	"difficulty": 10
+}

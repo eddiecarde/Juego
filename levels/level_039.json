@@ -1,0 +1,22 @@
+{
+	"id": 39,
+	"name": "Última entrega",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese",
+		"box"
+	],
+	"triples": 19,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 0,
+	"hint_cost": 135,
+	"reward_coins": 535,
+	"difficulty": 10
+}

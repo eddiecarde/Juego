@@ -1,0 +1,21 @@
+{
+	"id": 35,
+	"name": "Caos ordenado",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese"
+	],
+	"triples": 18,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 0,
+	"hint_cost": 125,
+	"reward_coins": 475,
+	"difficulty": 9
+}

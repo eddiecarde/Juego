@@ -1,0 +1,22 @@
+{
+	"id": 43,
+	"name": "Rompecabezas de góndola",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese",
+		"box"
+	],
+	"triples": 21,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 3,
+	"tray_slots": 5,
+	"time_limit": 0,
+	"hint_cost": 150,
+	"reward_coins": 595,
+	"difficulty": 10
+}

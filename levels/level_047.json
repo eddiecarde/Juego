@@ -1,0 +1,22 @@
+{
+	"id": 47,
+	"name": "Desafío profundo",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese",
+		"box"
+	],
+	"triples": 23,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 3,
+	"tray_slots": 5,
+	"time_limit": 0,
+	"hint_cost": 160,
+	"reward_coins": 655,
+	"difficulty": 10
+}

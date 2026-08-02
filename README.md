@@ -5,8 +5,8 @@ en **Godot 4** con **GDScript**, optimizado para **Android**.
 
 El jugador toca los objetos de los estantes para enviarlos a una **bandeja**. Al
 reunir **3 objetos iguales**, desaparecen. Si la bandeja se llena sin poder
-agrupar, se pierde. Hay niveles con dificultad progresiva, temporizador opcional,
-monedas, pistas, reintentos y guardado automático.
+agrupar, se pierde. Incluye **50 niveles** con dificultad progresiva, temporizador
+opcional, monedas, pistas, reintentos y guardado automático.
 
 > **Requisitos:** Godot **4.3 o superior** (rama estable de Godot 4).
 
@@ -97,8 +97,12 @@ levels/level_XXX.json  → Definiciones de nivel (DATA-DRIVEN)
 
 ## ➕ Cómo agregar un nivel nuevo (¡sin tocar código!)
 
-1. Copia cualquier archivo de `levels/`, por ejemplo `level_010.json`, y renómbralo
-   a `level_011.json`.
+> El juego trae **50 niveles** (`level_001.json` … `level_050.json`). Los niveles
+> 11–50 se generaron con `tools/gen_levels.py` (curva de dificultad + solvencia
+> garantizada); puedes editarlos a mano o regenerarlos con ese script.
+
+1. Copia cualquier archivo de `levels/`, por ejemplo `level_050.json`, y renómbralo
+   a `level_051.json`.
 2. Ajusta sus valores:
 
 ```json
@@ -198,8 +202,9 @@ El juego ya emite eventos útiles: `level_start`, `level_complete`, `level_fail`
 - **Sonido:** sustituye los WAV de `assets/audio/`. Puedes añadir música de fondo
   llamando `AudioManager.play_music("res://assets/audio/mi_musica.ogg")`.
 
-Los WAV placeholder se generaron con el script `tools/gen_sfx.py` (incluido como
-referencia; requiere solo Python 3).
+Los WAV placeholder se generaron con el script `tools/gen_sfx.py` y los niveles
+11–50 con `tools/gen_levels.py` (ambos incluidos como referencia; requieren solo
+Python 3).
 
 ---
 

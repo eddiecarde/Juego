@@ -1,0 +1,20 @@
+{
+	"id": 13,
+	"name": "Pasillo 3",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread"
+	],
+	"triples": 9,
+	"shelves": 4,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 7,
+	"time_limit": 60,
+	"hint_cost": 60,
+	"reward_coins": 145,
+	"difficulty": 5
+}

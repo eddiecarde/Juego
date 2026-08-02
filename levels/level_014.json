@@ -1,0 +1,20 @@
+{
+	"id": 14,
+	"name": "Cámara fría",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread"
+	],
+	"triples": 9,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 7,
+	"time_limit": 60,
+	"hint_cost": 60,
+	"reward_coins": 160,
+	"difficulty": 5
+}

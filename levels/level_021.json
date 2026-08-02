@@ -1,0 +1,20 @@
+{
+	"id": 21,
+	"name": "Inventario nocturno",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread"
+	],
+	"triples": 12,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 79,
+	"hint_cost": 85,
+	"reward_coins": 265,
+	"difficulty": 7
+}

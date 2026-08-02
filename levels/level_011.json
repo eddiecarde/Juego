@@ -1,0 +1,20 @@
+{
+	"id": 11,
+	"name": "Depósito matutino",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread"
+	],
+	"triples": 8,
+	"shelves": 4,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 7,
+	"time_limit": 0,
+	"hint_cost": 55,
+	"reward_coins": 115,
+	"difficulty": 5
+}

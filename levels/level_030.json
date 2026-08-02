@@ -1,0 +1,21 @@
+{
+	"id": 30,
+	"name": "Gerente de tienda",
+	"goods": [
+		"apple",
+		"banana",
+		"grapes",
+		"milk",
+		"bread",
+		"cheese"
+	],
+	"triples": 16,
+	"shelves": 5,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 106,
+	"hint_cost": 110,
+	"reward_coins": 500,
+	"difficulty": 8
+}
