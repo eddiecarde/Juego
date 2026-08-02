@@ -1,0 +1,14 @@
+{
+	"id": 9,
+	"name": "Hora punta",
+	"goods": ["apple", "banana", "grapes", "milk", "bread", "cheese", "box"],
+	"triples": 11,
+	"shelves": 4,
+	"columns": 5,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 90,
+	"hint_cost": 70,
+	"reward_coins": 220,
+	"difficulty": 5
+}

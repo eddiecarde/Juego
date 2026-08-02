@@ -1,0 +1,14 @@
+{
+	"id": 1,
+	"name": "Almacén — Día 1",
+	"goods": ["apple", "banana", "milk"],
+	"triples": 4,
+	"shelves": 3,
+	"columns": 4,
+	"depth": 1,
+	"tray_slots": 7,
+	"time_limit": 0,
+	"hint_cost": 30,
+	"reward_coins": 80,
+	"difficulty": 1
+}

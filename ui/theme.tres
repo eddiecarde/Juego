@@ -1,0 +1,9 @@
+[gd_resource type="Theme" format=3]
+
+; Tema global del juego. Se mantiene deliberadamente simple: solo fija un
+; tamaño de fuente base grande y cómodo para pantallas táctiles. El estilo
+; fino de cada control se aplica por código donde hace falta, para evitar
+; dependencias de sub-recursos difíciles de mantener a mano.
+
+[resource]
+default_font_size = 34

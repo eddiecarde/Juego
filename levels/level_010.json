@@ -1,0 +1,14 @@
+{
+	"id": 10,
+	"name": "Maestro del orden",
+	"goods": ["apple", "banana", "grapes", "milk", "bread", "cheese", "box", "bottle"],
+	"triples": 12,
+	"shelves": 4,
+	"columns": 6,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 90,
+	"hint_cost": 80,
+	"reward_coins": 300,
+	"difficulty": 5
+}

@@ -1,0 +1,14 @@
+{
+	"id": 5,
+	"name": "Contrarreloj",
+	"goods": ["apple", "banana", "grapes", "milk", "bread"],
+	"triples": 7,
+	"shelves": 3,
+	"columns": 5,
+	"depth": 2,
+	"tray_slots": 7,
+	"time_limit": 120,
+	"hint_cost": 50,
+	"reward_coins": 130,
+	"difficulty": 3
+}

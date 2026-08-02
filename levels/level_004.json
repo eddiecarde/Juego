@@ -1,0 +1,14 @@
+{
+	"id": 4,
+	"name": "Estantes ocultos",
+	"goods": ["apple", "grapes", "milk", "cheese"],
+	"triples": 6,
+	"shelves": 3,
+	"columns": 4,
+	"depth": 2,
+	"tray_slots": 7,
+	"time_limit": 0,
+	"hint_cost": 40,
+	"reward_coins": 110,
+	"difficulty": 2
+}

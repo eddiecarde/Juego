@@ -1,0 +1,14 @@
+{
+	"id": 3,
+	"name": "Frutería",
+	"goods": ["apple", "banana", "grapes", "bread"],
+	"triples": 6,
+	"shelves": 3,
+	"columns": 6,
+	"depth": 1,
+	"tray_slots": 7,
+	"time_limit": 0,
+	"hint_cost": 40,
+	"reward_coins": 100,
+	"difficulty": 2
+}

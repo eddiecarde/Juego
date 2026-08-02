@@ -1,0 +1,57 @@
+; Engine configuration file.
+; "Goods Sort Master" — Godot 4 (GDScript)
+;
+; Este archivo define la configuración global del proyecto: autoloads
+; (singletons), ajustes para móvil (orientación, escalado), renderizador
+; e input. Está pensado para Godot 4.3 o superior.
+
+config_version=5
+
+[application]
+
+config/name="Goods Sort Master"
+config/description="Juego casual de ordenar mercancías (triple-match) para Android."
+run/main_scene="res://scenes/MainMenu.tscn"
+config/features=PackedStringArray("4.3", "Mobile")
+config/icon="res://icon.svg"
+; Guardar automáticamente también al minimizar/enviar a segundo plano.
+run/low_processor_mode=true
+
+[autoload]
+
+; El orden importa: los que se usan en _ready() de otros deben ir antes.
+Goods="*res://data/Goods.gd"
+SaveManager="*res://autoload/SaveManager.gd"
+AnalyticsManager="*res://autoload/AnalyticsManager.gd"
+AdsManager="*res://autoload/AdsManager.gd"
+AudioManager="*res://autoload/AudioManager.gd"
+LevelManager="*res://autoload/LevelManager.gd"
+GameManager="*res://autoload/GameManager.gd"
+
+[display]
+
+; Resolución base vertical (retrato) típica de móvil.
+window/size/viewport_width=720
+window/size/viewport_height=1280
+; La ventana se escala manteniendo los controles nítidos y expandiendo el
+; área visible según el aspecto real del dispositivo.
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+; Bloquear a retrato en el dispositivo.
+window/handheld/orientation="portrait"
+
+[input_devices]
+
+; En el editor, el ratón emula toques; en dispositivo, el toque es nativo.
+pointing/emulate_touch_from_mouse=true
+
+[rendering]
+
+; Renderizador "mobile": mejor rendimiento y batería en teléfonos.
+renderer/rendering_method="mobile"
+renderer/rendering_method.mobile="mobile"
+textures/vram_compression/import_etc2_astc=true
+
+[gui]
+
+theme/custom="res://ui/theme.tres"

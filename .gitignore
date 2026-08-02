@@ -1,0 +1,23 @@
+# Godot 4 — archivos generados / caché que no deben versionarse.
+
+# Carpeta de importación y caché del editor.
+.godot/
+
+# Exports compilados.
+/build/
+/export/
+*.apk
+*.aab
+*.pck
+*.zip
+
+# Credenciales / firmas de Android (NUNCA subir claves).
+*.keystore
+*.jks
+release.keystore
+android/keystore/
+
+# Sistema operativo / editores.
+.DS_Store
+Thumbs.db
+*.swp

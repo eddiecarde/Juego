@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3aa0ff"/>
+      <stop offset="1" stop-color="#2360d8"/>
+    </linearGradient>
+    <linearGradient id="box" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffcf7a"/>
+      <stop offset="1" stop-color="#d9963f"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="128" height="128" rx="28" fill="url(#bg)"/>
+  <!-- Caja de mercancías -->
+  <rect x="30" y="46" width="68" height="52" rx="8" fill="url(#box)" stroke="#a86a22" stroke-width="3"/>
+  <path d="M30 62 h68" stroke="#a86a22" stroke-width="3"/>
+  <rect x="56" y="46" width="16" height="16" rx="3" fill="#a86a22"/>
+  <!-- Destello -->
+  <circle cx="46" cy="36" r="6" fill="#ffffff" opacity="0.85"/>
+  <circle cx="86" cy="30" r="4" fill="#ffffff" opacity="0.7"/>
+</svg>

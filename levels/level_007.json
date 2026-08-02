@@ -1,0 +1,14 @@
+{
+	"id": 7,
+	"name": "Bandeja ajustada",
+	"goods": ["apple", "banana", "grapes", "milk", "bread", "cheese"],
+	"triples": 9,
+	"shelves": 4,
+	"columns": 5,
+	"depth": 2,
+	"tray_slots": 6,
+	"time_limit": 100,
+	"hint_cost": 60,
+	"reward_coins": 170,
+	"difficulty": 4
+}

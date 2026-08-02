@@ -1,0 +1,14 @@
+{
+	"id": 6,
+	"name": "Bodega grande",
+	"goods": ["apple", "grapes", "milk", "bread", "cheese"],
+	"triples": 8,
+	"shelves": 4,
+	"columns": 5,
+	"depth": 2,
+	"tray_slots": 7,
+	"time_limit": 120,
+	"hint_cost": 50,
+	"reward_coins": 150,
+	"difficulty": 3
+}
