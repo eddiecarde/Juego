@@ -1,4 +1,5 @@
 extends PopupBase
+class_name LosePopup
 ## LosePopup — diálogo de derrota (la bandeja se llenó o se acabó el tiempo).
 ## Ofrece reintentar, reintentar gratis viendo un anuncio recompensado
 ## (vía AdsManager) o volver al menú.

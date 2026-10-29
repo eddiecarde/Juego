@@ -2,6 +2,8 @@
 
 # Carpeta de importación y caché del editor.
 .godot/
+# Metadatos de importación generados por Godot al abrir el proyecto.
+*.import
 
 # Exports compilados.
 /build/

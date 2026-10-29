@@ -1,4 +1,5 @@
 extends PopupBase
+class_name WinPopup
 ## WinPopup — diálogo de nivel superado. Muestra estrellas y monedas ganadas,
 ## y ofrece continuar al siguiente nivel, reintentar o volver al menú.
 

@@ -1,4 +1,5 @@
 extends PopupBase
+class_name PausePopup
 ## PausePopup — diálogo de pausa. Permite reanudar, silenciar el audio,
 ## reiniciar el nivel o volver al menú.
 
